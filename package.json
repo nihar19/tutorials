@@ -1,0 +1,11 @@
+{
+  "name": "hh",
+  "subdomain": "hh",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "http-server": "0.2.x"
+  },
+  "version": "0.0.0-4"
+}
